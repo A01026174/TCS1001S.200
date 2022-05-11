@@ -2,6 +2,7 @@
 """
 Simple test
 Samantha Covarrubias
+Alina Rosas
 """
 def main():
     print("Hii lovely human!!")
