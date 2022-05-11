@@ -2,6 +2,7 @@
 """
 Simple test
 Samantha Covarrubias
+Alina Rosas
 """
 def test():
     print("Have a nice day!")
