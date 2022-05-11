@@ -3,6 +3,9 @@
 Simple test
 Samantha Covarrubias
 """
+def test():
+    print("Have a nice day!")
+
 def main():
     print("Hii lovely human!!")
     print("You are amazing!!")
