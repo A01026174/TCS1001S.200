@@ -5,6 +5,7 @@ Samantha Covarrubias
 """
 def test():
     print("Have a nice day!")
+test()
 
 def main():
     print("Hii lovely human!!")
